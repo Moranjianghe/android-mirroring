@@ -1,0 +1,2 @@
+@echo off
+.\scrcpy-win64-v3.3\scrcpy --video-codec=h265  --new-display=1920x1080/400 --max-fps=60 --start-app=bitpit.launcher
